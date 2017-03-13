@@ -1,0 +1,13 @@
+c:\users\teto\documents\visual studio 2015\Projects\CustomersMasterDetails\CustomersMasterDetails\bin\Debug\CustomersMasterDetails.exe.config
+c:\users\teto\documents\visual studio 2015\Projects\CustomersMasterDetails\CustomersMasterDetails\bin\Debug\MaterDetailsDB.mdf
+c:\users\teto\documents\visual studio 2015\Projects\CustomersMasterDetails\CustomersMasterDetails\bin\Debug\MaterDetailsDB_log.ldf
+c:\users\teto\documents\visual studio 2015\Projects\CustomersMasterDetails\CustomersMasterDetails\bin\Debug\CustomersMasterDetails.exe
+c:\users\teto\documents\visual studio 2015\Projects\CustomersMasterDetails\CustomersMasterDetails\bin\Debug\CustomersMasterDetails.pdb
+c:\users\teto\documents\visual studio 2015\Projects\CustomersMasterDetails\CustomersMasterDetails\obj\Debug\CustomersMasterDetails.csprojResolveAssemblyReference.cache
+c:\users\teto\documents\visual studio 2015\Projects\CustomersMasterDetails\CustomersMasterDetails\obj\Debug\CustomersMasterDetails.PresentationLayer.Main.resources
+c:\users\teto\documents\visual studio 2015\Projects\CustomersMasterDetails\CustomersMasterDetails\obj\Debug\CustomersMasterDetails.Properties.Resources.resources
+c:\users\teto\documents\visual studio 2015\Projects\CustomersMasterDetails\CustomersMasterDetails\obj\Debug\CustomersMasterDetails.csproj.GenerateResource.Cache
+c:\users\teto\documents\visual studio 2015\Projects\CustomersMasterDetails\CustomersMasterDetails\obj\Debug\CustomersMasterDetails.exe
+c:\users\teto\documents\visual studio 2015\Projects\CustomersMasterDetails\CustomersMasterDetails\obj\Debug\CustomersMasterDetails.pdb
+C:\Users\Teto\Documents\Visual Studio 2015\Projects\CustomersMasterDetails\CustomersMasterDetails\obj\Debug\CustomersMasterDetails.PresentationLayer.AddEditCustomer.resources
+C:\Users\Teto\Documents\Visual Studio 2015\Projects\CustomersMasterDetails\CustomersMasterDetails\obj\Debug\CustomersMasterDetails.PresentationLayer.AddEditInvoice.resources
